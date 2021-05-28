@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <title>Modelo de cajas, display y position</title>
+    <style>
+        body{
+            font-family: 'Roboto', sans-serif;
+            font-weight: 700;
+            background-color: #000000;
+            color: white;
+        }
+        button{
+            font-family: 'Roboto', sans-serif;
+            font-weight: 400;
+            font-size: large;
+            width: 25%;
+            height: 4rem;
+            margin-bottom: 2rem;
+            border-radius: 6px;
+            border: none;
+            background-color: #29A9E1;
+            color: white;
+            text-decoration: none;
+
+        }
+
+        a{
+            font-weight: 700;
+            color: white;
+            text-decoration: none;
+        }
+
+    </style>
+</head>
+<body>
+
+    <h1>Modelo de cajas, display y position</h1>
+
+    <button><a href="desafio_1.html">Desafío 1</a></button>
+    <button><a href="desafio_2.html">Desafío 2</a></button>
+    <button><a href="desafio_3.html">Desafío 3</a></button>
+    <button><a href="desafio_4.html">Desafío 4</a></button>
+    <button><a href="desafio_5.html">Desafío 5</a></button>
+    <button><a href="desafio_6.html">Desafío 6</a></button>
+    <button><a href="desafio_7.html">Desafío 7</a></button>
+    <button><a href="desafio_8.html">Desafío 8</a></button>
+    
+</body>
+</html>
